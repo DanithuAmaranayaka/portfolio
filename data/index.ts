@@ -76,7 +76,7 @@ export const projects = [
     des: "An innovative e-commerce web application for a tire shop, facilitating seamless browsing, purchase, and delivery of a wide range of tires for various vehicles, complemented by personalized recommendations..",
     img: "/aaautocare.png",
     iconLists: ["/html.webp", "/css.webp", "/js.png", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "aaautocare.lk",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "The FiveM Arena Server offers an unparalleled competitive environment for Grand Theft Auto V (GTA V) players. This specialized server is designed for high-intensity PvP (player versus player) activities, featuring various game modes, custom maps, and balanced gameplay to ensure a thrilling experience for all participants.",
     img: "/fivemarina.jpg",
     iconLists: ["/lua.png", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/cfx.re/join/36meob",
+    link: "cfx.re/join/36meob",
   },
   {
     id: 3,
