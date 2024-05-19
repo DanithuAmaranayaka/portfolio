@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/logo.png" sizes="any" />
-        <meta property="og:image" content="/logo.png"></meta>
+        <meta property="og:image" content="https://www.danithu.online/logo.png"/>
       </head>
       <body className={inter.className}>
         <ThemeProvider
