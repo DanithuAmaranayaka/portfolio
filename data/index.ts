@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "AA Autocare(PVT)LTD.",
     des: "An innovative e-commerce web application for a tire shop, facilitating seamless browsing, purchase, and delivery of a wide range of tires for various vehicles, complemented by personalized recommendations..",
-    img: "/fivemarina.jpg",
+    img: "/aaautocare.jpg",
     iconLists: ["/html.webp", "/css.webp", "/js.png", "/three.svg", "/fm.svg"],
     link: "aaautocare.lk",
   },
